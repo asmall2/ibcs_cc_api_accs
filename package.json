@@ -4,7 +4,7 @@
   "description": "Bots Express-based component service template",
   "main": "index.js",
   "scripts": {
-      "prepublish": "zip -r bots-express-service-template.zip *.js examples"
+      "prepublish": "zip -r bots-express-service-template.zip *.js examples node_modules"
   },
   "repository": {},
   "license": "ISC",
