@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Bots Express-based component service template",
   "main": "index.js",
+  "scripts": {
+      "prepublish": "zip -r bots-express-service-template.zip *.js examples"
+  },
   "repository": {},
   "license": "ISC",
   "dependencies": {
