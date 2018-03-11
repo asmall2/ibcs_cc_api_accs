@@ -6,7 +6,7 @@ module.exports = {
         {
             "name": "say_hello",
             "properties": {
-                "name": { "type": "string", "required": true }
+                "name": { "type": "string", "required": false }
             },
             "supportedActions": []
         }
